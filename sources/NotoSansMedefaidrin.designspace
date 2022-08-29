@@ -207,6 +207,10 @@
       </dict>
       <key>org.statmake.stylespacePath</key>
       <string>NotoSansMedefaidrin.stylespace</string>
+      <key>public.skipExportGlyphs</key>
+      <array>
+      <string>Vmdef</string>
+      </array>
     </dict>
   </lib>
 </designspace>
